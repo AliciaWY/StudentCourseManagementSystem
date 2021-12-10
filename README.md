@@ -1,5 +1,5 @@
 # Student and Course Management System
-This is a student and course management system program that allow users to manage several tasks for a group of students in the system. It is a menu-driven program that runs until the user choose to exit. 
+This is a student and course management system program that allow users to manage several tasks for a group of students in a system. It is a menu-driven program that runs until the user choose to exit. 
 
 
 ### Student Management System: 

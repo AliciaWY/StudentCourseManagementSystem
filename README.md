@@ -1,2 +1,9 @@
-# StudentCourseManagementSystem
-This is a "student management system" and “course management system” that provides users with a top-level menu that allows them to choose either one of the systems where they can perform their action within the systems.
+# Student and Course Management System
+This is a student and course management system program that allow users to manage several tasks for a group of students in the system. It is a menu-driven program that runs until the user choose to exit. 
+
+
+### Student Management System: 
+Users can add a new student to the system, activate or inactivate a student, display all students, search for a student, assign on-campus job to students, and display students with on-campus job.
+
+### Course Management System:
+Users can add a new couse to the system, assign student to a new course, and display all students with assigned courses. 
